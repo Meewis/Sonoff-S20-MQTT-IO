@@ -14,4 +14,4 @@ On the pcb of the Sonoff S20 there is a row of solder pads to place a header to 
 
 To get the Sonoff S20 in program mode; hold the push botton and then connect the USB-FTDI-RS232 adapter to your computer.
 
-The software the Sonoff S20 is a nearly 100% copy of my ESP8266-MQTT-IO project
+The software of the Sonoff S20 is a nearly 100% copy of my ESP8266-MQTT-IO project
