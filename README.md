@@ -4,7 +4,9 @@
 Inside the Sonoff S20 smart socket a ESP8266 is build in and can be reprogrammed
 
 !! always disconnect from mains when opening the housing of the Sonoff S20 !!
+
 !! during programming the Sonoff S20 is always disconnected from mains !!
+
 !! only connect to mains when the housing is properly closed !!
 
 For programming and power supply the internal CPU use a USB-FTDI-RS232 adapter.
