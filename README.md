@@ -2,6 +2,7 @@
  Sonoff S20 Wifi Smart Socket MQTT Control
 
 Inside the Sonoff S20 smart socket a ESP8266 is build in and can be reprogrammed
+
 !! always disconnect from main when opening the housing of the Sonoff S20 !!
 
 For programming and power supply the internal CPU use a USB-FTDI-RS232 adapter.
